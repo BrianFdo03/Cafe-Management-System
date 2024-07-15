@@ -1,0 +1,11 @@
+E:\Cafe System\Cafe System\bin\Debug\Cafe System.exe.config
+E:\Cafe System\Cafe System\bin\Debug\Cafe System.exe
+E:\Cafe System\Cafe System\bin\Debug\Cafe System.pdb
+E:\Cafe System\Cafe System\obj\Debug\Cafe System.csproj.AssemblyReference.cache
+E:\Cafe System\Cafe System\obj\Debug\Cafe_System.Properties.Resources.resources
+E:\Cafe System\Cafe System\obj\Debug\Cafe System.csproj.GenerateResource.cache
+E:\Cafe System\Cafe System\obj\Debug\Cafe System.csproj.CoreCompileInputs.cache
+E:\Cafe System\Cafe System\obj\Debug\Cafe System.exe
+E:\Cafe System\Cafe System\obj\Debug\Cafe System.pdb
+E:\Cafe System\Cafe System\obj\Debug\Cafe_System.Form1.resources
+E:\Cafe System\Cafe System\obj\Debug\Cafe_System.RegisterForm.resources
